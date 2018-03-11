@@ -1,0 +1,23 @@
+{
+  "name": "happy-ua",
+  "version": "0.0.2",
+  "description": "Happy User-Agent 检测库",
+  "main": "./lib/index.js",
+  "author": "Ben赖珏豪",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cilla123/happy-ua.git"
+  },
+  "scripts": {
+    "build": "babel src -d lib",
+    "build:watch": "npm run build -- --watch"
+  },
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-env": "1.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ua-parser-js": "0.7.14"
+  }
+}
