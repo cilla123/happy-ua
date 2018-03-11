@@ -3,9 +3,9 @@
 ### Install
 
 ```
-npm install happy-ua --save
+npm install happy-cua --save
 or
-yarn add happy-ua
+yarn add happy-cua
 ```
 
 ### Usage
