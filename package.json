@@ -1,6 +1,6 @@
 {
-  "name": "happy-ua",
-  "version": "0.0.2",
+  "name": "happy-cua",
+  "version": "0.0.1",
   "description": "Happy User-Agent 检测库",
   "main": "./lib/index.js",
   "author": "Ben赖珏豪",
